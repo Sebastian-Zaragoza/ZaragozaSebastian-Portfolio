@@ -1,5 +1,5 @@
 import {BrowserRouter, Route, Routes} from "react-router";
-import AppLayout from "./Layout/AppLayout.tsx";
+import AppLayout from "./layout/AppLayout.tsx";
 import PortfolioView from "./views/PortfolioView.tsx";
 import IntelligTest from "./views/IntelligTest.tsx";
 import DevFlow from "./views/DevFlow.tsx";
