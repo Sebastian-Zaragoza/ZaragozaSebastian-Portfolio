@@ -49,7 +49,7 @@ const Reveal = ({
                     y = 16,
                     amount = 0.25,
                 }: {
-    children: ReactNode;gti
+    children: ReactNode;
     delay?: number;
     y?: number;
     amount?: number;
